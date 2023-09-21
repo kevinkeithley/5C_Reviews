@@ -3,7 +3,7 @@ A collection of 5C big data reviews based on S. Keshav's [How to Read a Paper](h
 
 The "five Cs" in the paper are based on a first pass reading of a paper. The key points for the first pass include:
 
-1) Carefully read the title, abstract, and introducion
+1) Carefully read the title, abstract, and introduction
 
 2) Read the section and sub-section headings, but ignore everything else
 
