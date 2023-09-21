@@ -1,7 +1,7 @@
 # 5C_Reviews
 A collection of 5C big data reviews based on S. Keshav's [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf).
 
-The "5C"'s in the paper are based on a first pass reading of a paper. The key points for the first pass include:
+The "five Cs" in the paper are based on a first pass reading of a paper. The key points for the first pass include:
 
 1) Carefully read the title, abstract, and introducion
 
